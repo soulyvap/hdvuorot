@@ -10,27 +10,27 @@ Due to company restrictions, the source code is private, but I’ve documented t
 
 <img width="1680" alt="Screenshot 2025-02-05 at 16 05 48" src="https://github.com/user-attachments/assets/2a58b45e-c556-42b9-9362-9d1674f3fa2f" />
 
-**Home page - Table view**: Allows a user to visualize their coworkers' status for a month, sort them and filter them by name, title, unit, location and status.
+**Home page - Table view**: Allows a user to visualize their coworkers' status for a month, sort them and filter them by name, title, unit, location and status.\\
 
 <img width="1680" alt="Screenshot 2025-02-05 at 16 06 37" src="https://github.com/user-attachments/assets/c9fae500-67b8-462e-b53d-43109923d4a9" />
 
-**Home page - Edit mode**: Allows a user user to edit their own availability statuses or other coworker's status if the current user is an admin.
+**Home page - Edit mode**: Allows a user user to edit their own availability statuses or other coworker's status if the current user is an admin.\\
 
 <img width="1680" alt="Screenshot 2025-02-05 at 16 08 52" src="https://github.com/user-attachments/assets/fa677e79-09e0-45c4-9f5d-f5f2eaa0cc9e" />
 
-**Home page - Calendar view**: Allows a user to visualize their coworkers' status for a week, sorted by status.
+**Home page - Calendar view**: Allows a user to visualize their coworkers' status for a week, sorted by status.\\
 
 <img width="1680" alt="Screenshot 2025-02-05 at 16 07 02" src="https://github.com/user-attachments/assets/23d0c84c-cf70-46a0-bac2-3c4afd52fb90" />
 
-**Admin page - User management view**: Allows an admin user to add/delete/edit users on the platform.
+**Admin page - User management view**: Allows an admin user to add/delete/edit users on the platform.\\
 
 <img width="1680" alt="Screenshot 2025-02-05 at 16 07 22" src="https://github.com/user-attachments/assets/d731f52e-43bb-44e9-81e2-6947a92625da" />
 
-**Admin page - Unit management view**: Allows an admin user to add/delete/edit units in which employees work.
+**Admin page - Unit management view**: Allows an admin user to add/delete/edit units in which employees work.\\
 
 <img width="1680" alt="Screenshot 2025-02-05 at 16 07 37" src="https://github.com/user-attachments/assets/05119395-5039-4b93-945c-41410df80a26" />
 
-**Admin page - Logs view**: Allows an admin user to visualize change logs.
+**Admin page - Logs view**: Allows an admin user to visualize change logs.\\
 
 <img width="369" alt="Screenshot 2025-02-05 at 16 08 24" src="https://github.com/user-attachments/assets/ccec5245-a50f-416e-b16e-5d2be4aa1bef" />
 
