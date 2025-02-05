@@ -1,5 +1,3 @@
-![Slide6](https://github.com/user-attachments/assets/844e0cc1-519b-4d09-b32c-f177172493b4)# **HDVUOROT – A Shared Calendar for IT Helpdesk Teams**  
-
 ## **Project Overview**
 **HDVUOROT** is an internal platform designed to help IT helpdesk workers keep track of each other's **availability statuses**. The application provides a **shared calendar interface** where users can log future **absences, remote working days, and other schedule-related updates**.  
 
