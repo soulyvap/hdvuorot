@@ -1,4 +1,4 @@
-# **HDVUOROT – A Shared Calendar for IT Helpdesk Teams**  
+![Slide6](https://github.com/user-attachments/assets/844e0cc1-519b-4d09-b32c-f177172493b4)# **HDVUOROT – A Shared Calendar for IT Helpdesk Teams**  
 
 ## **Project Overview**
 **HDVUOROT** is an internal platform designed to help IT helpdesk workers keep track of each other's **availability statuses**. The application provides a **shared calendar interface** where users can log future **absences, remote working days, and other schedule-related updates**.  
@@ -15,7 +15,7 @@ Due to company restrictions, the source code is private, but this document serve
 📌 **Visualize coworkers' statuses for a month**  
 📌 **Sort and filter by name, title, unit, location, and status**  
 
-<img width="1680" alt="Home Page - Table View" src="https://github.com/user-attachments/assets/2a58b45e-c556-42b9-9362-9d1674f3fa2f" />
+![Slide6](https://github.com/user-attachments/assets/b5820c9d-ef90-4020-a036-98779180e3ee)
 
 ---
 
@@ -23,7 +23,7 @@ Due to company restrictions, the source code is private, but this document serve
 📌 **Edit your own availability statuses**  
 📌 **Admins can modify other users' statuses**  
 
-<img width="1680" alt="Home Page - Edit Mode" src="https://github.com/user-attachments/assets/c9fae500-67b8-462e-b53d-43109923d4a9" />
+![Slide5](https://github.com/user-attachments/assets/88a7a07c-e1eb-4e94-a85a-7d52fdf4e6b9)
 
 ---
 
@@ -31,28 +31,28 @@ Due to company restrictions, the source code is private, but this document serve
 📌 **Visualize coworkers' statuses for a week**  
 📌 **Sort by status**  
 
-<img width="1680" alt="Home Page - Calendar View" src="https://github.com/user-attachments/assets/fa677e79-09e0-45c4-9f5d-f5f2eaa0cc9e" />
+![Slide1](https://github.com/user-attachments/assets/638b33df-e055-4bfa-bacb-d6e3ded691f8)
 
 ---
 
 ### **Admin Page - User Management View**  
 📌 **Admins can add, delete, and edit users**  
 
-<img width="1680" alt="Admin Page - User Management View" src="https://github.com/user-attachments/assets/23d0c84c-cf70-46a0-bac2-3c4afd52fb90" />
+![Slide4](https://github.com/user-attachments/assets/97df6ba6-f9fc-42db-a5ef-dba3550c4b94)
 
 ---
 
 ### **Admin Page - Unit Management View**  
 📌 **Admins can add, delete, and edit employee units**  
 
-<img width="1680" alt="Admin Page - Unit Management View" src="https://github.com/user-attachments/assets/d731f52e-43bb-44e9-81e2-6947a92625da" />
+![Slide3](https://github.com/user-attachments/assets/6017d49c-5fcc-4b73-9fa0-67fc70ffdea3)
 
 ---
 
 ### **Admin Page - Logs View**  
 📌 **Admins can visualize change logs**  
 
-<img width="1680" alt="Admin Page - Logs View" src="https://github.com/user-attachments/assets/05119395-5039-4b93-945c-41410df80a26" />
+![Slide2](https://github.com/user-attachments/assets/70b1f3e1-c284-4868-9ed3-9a91f45bbec5)
 
 ---
 
