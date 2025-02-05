@@ -1,7 +1,3 @@
-Here's your **finalized Technical Write-up** with the **requested images** integrated for a professional and well-structured document. 🚀  
-
----
-
 # **HDVUOROT – A Shared Calendar for IT Helpdesk Teams**  
 
 ## **Project Overview**
