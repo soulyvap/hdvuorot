@@ -1,3 +1,5 @@
+# **HDVUOROT**
+
 ## **Project Overview**
 **HDVUOROT** is an internal platform designed to help IT helpdesk workers keep track of each other's **availability statuses**. The application provides a **shared calendar interface** where users can log future **absences, remote working days, and other schedule-related updates**.  
 
@@ -27,7 +29,7 @@ Due to company restrictions, the source code is private, but this document serve
 
 ### **Home Page - Calendar View**  
 📌 **Visualize coworkers' statuses for a week**  
-📌 **Sort by status**  
+📌 **Sorted by status**  
 
 ![Slide1](https://github.com/user-attachments/assets/638b33df-e055-4bfa-bacb-d6e3ded691f8)
 
